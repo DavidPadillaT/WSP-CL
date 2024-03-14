@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/77cf3e37-99da-460e-9c50-c3256d07e547/resourceGroups/whatsapp-python-rg/providers/Microsoft.Web/sites/whatsapp-python-webapi-dapt32",
+    "appService.deploySubpath": "."
+}
